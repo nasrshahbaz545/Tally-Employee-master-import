@@ -10,8 +10,8 @@ HOW TO USE
 2. Replace the sample row with employee data. MAKE SURE NO DUPLICATION OF EMPLOYEE DATA. KEEP EmployeeCategory TO DEFAULT OR CREATE CATEGORIES AND LIST IN EXCEL. IF THERE ARE EMPLOYEE GROUPS LIKE "PAYSCALE-1, PAYSCALE-2 ETC" LIST THEM UNDER EmployeeGroup AND THERE IS NO GROUP, KEEP THE EMPLOYEE GROUP EMPTY.
 3. Save and close Excel.
 4. Double-click Convert_Employee_Excel_To_XML.cmd.
-5. The utility creates Employee_Master_Full_Import.xml.
-6. In a copied Tally company, go to Gateway of Tally > Import Data > Masters.
+5. The utility creates Employee_Master_Full_Import.xml. Right click the file and copy the path. make sure to remove inverted comas by pasting in tally ctrl +alt + v
+6. In a copied Tally company, go to Gateway of Tally > Import Data > Masters. enter enter enter
 7. Import the XML and review Tally.imp.
 
 IMPORTANT
